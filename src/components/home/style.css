@@ -1,0 +1,32 @@
+.favoritos{
+    display: flex;
+    justify-content: space-between;
+}
+
+.ul{
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+li {
+    margin-left: 30px;
+    display:flex;
+}
+
+.cartoes{
+    display: flex;
+    flex-direction: column;
+    background-color: #b2f2bb;
+    width: 250px;
+    text-align:center;
+    margin-left: 100px;
+    justify-content: center;
+    align-items: center;
+}
+.tres{
+    display: flex;
+}
+
+.cartoes h2{
+    color: blue;
+}
